@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Interactions-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SCSS-Sass-CC6699?logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-Only-brightgreen" />
   <img src="https://img.shields.io/badge/Year-2023-lightgrey" />
 </p>
@@ -34,7 +35,7 @@
 ## 📸 Screenshots
 
 ### Full Page View
-![iApply Home](screenshots/IApply.png)
+![iApply Home](IApply.png)
 
 ---
 
@@ -45,6 +46,7 @@
 | **HTML5** | Page structure & markup |
 | **CSS3** | Styling & layout |
 | **JavaScript** | Interactivity & animations |
+| **SCSS / Sass** | Custom styling & theming |
 
 ---
 
