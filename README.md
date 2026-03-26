@@ -35,7 +35,7 @@
 ## 📸 Screenshots
 
 ### Full Page View
-![iApply Home](IApply.png)
+![IApply Home](IApply.png)
 
 ---
 
