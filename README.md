@@ -35,7 +35,7 @@
 ## 📸 Screenshots
 
 ### Full Page View
-![iApply Home](lApply.png)
+![iApply Home](https://raw.githubusercontent.com/MuhammedAshrafSaleh/iapply/master/iApply.png)
 
 ---
 
